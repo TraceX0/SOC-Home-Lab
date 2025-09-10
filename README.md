@@ -10,7 +10,7 @@ End-to-end SOC home lab for hands-on log collection, analysis, and alerting.
 - Log forwarding from Windows to Ubuntu over TCP
 
 ## Architecture
-[Windows 10] ── Sysmon Installed  
+[Windows 10] ── Sysmon
        │  
        ▼  
 [Splunk Universal Forwarder] ──▶ [Splunk Enterprise Server on Ubuntu]

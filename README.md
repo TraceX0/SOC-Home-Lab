@@ -11,6 +11,7 @@ End-to-end SOC home lab for hands-on log collection, analysis, and alerting.
 
 ## Architecture
 [Windows 10] ── Sysmon
+       
        │  
        ▼  
 [Splunk Universal Forwarder] ──▶ [Splunk Enterprise Server on Ubuntu]
